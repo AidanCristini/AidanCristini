@@ -50,20 +50,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AiçdanCristini&show_icons=true&theme=default" alt="Aidan's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidanCristini&layout=compact&theme=default" alt="Top Langs" />
-</p>
-
----
-
 ## 📫 How to reach me
 
 * 📧 Email: [aidan.cristini.pro@gmail.com](mailto:aidan.cristini.pro@gmail.com)
 * 💼 LinkedIn: [linkedin.com/in/Aidan-Cristini](www.linkedin.com/in/aidan-cristini-ba63a922b)
 
----
-
-> "Curious, autonomous and passionate, I love building side projects to learn by doing and share them with others."

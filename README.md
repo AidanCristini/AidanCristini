@@ -36,6 +36,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=for-the-badge&logo=github-actions&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![System Admin](https://img.shields.io/badge/System_Admin-20232A?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-005073?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### 🗄️ Databases
 

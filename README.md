@@ -49,12 +49,12 @@
 
 ---
 
-## 📌 Featured Projects
+## 📊 GitHub Stats
 
-* [**ParaCheck**](#) → Paragliding logbook for FFVL (Flutter, SharedPreferences)
+![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidanCristini&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidanCristini&layout=compact&theme=tokyonight)  
 
 ---
-
 ## 📫 How to reach me
 
 * 📧 Email: [aidan.cristini.pro@gmail.com](mailto:aidan.cristini.pro@gmail.com)
